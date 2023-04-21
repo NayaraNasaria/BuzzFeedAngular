@@ -1,55 +1,115 @@
 {
-  "title": "Você seria um heroi ou vilão ?",
+  "title": "Qual filme você deveria ver hoje?",
   "questions": [
     {
       "id": 1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Como você está se sentindo?",
       "options": [
-        { "id": 1, "name": "Raios-Lasers", "alias": "A" },
-        { "id": 2, "name": "Voar", "alias": "B" },
-        { "id": 3, "name": "Explodir coisas", "alias": "A" },
-        { "id": 4, "name": "Curar feridas", "alias": "B" },
-        { "id": 5, "name": "Soltar fogo pelas mãos", "alias": "A" }
+        { "id": 1, "name": "Triste", "alias": "A" },
+        { "id": 2, "name": "Decepcionado", "alias": "B" },
+        { "id": 3, "name": "Feliz", "alias": "C" },
+        { "id": 4, "name": "Neutro", "alias": "D" }
       ]
     },
     {
       "id": 2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Qual seu personagem favorito entre esses?",
       "options": [
-        { "id": 1, "name": "Crianças", "alias": "A" },
-        { "id": 2, "name": "Idosos", "alias": "A" },
-        { "id": 3, "name": "Não saberia escolher", "alias": "B" }
+        { "id": 1, "name": "Homem Aranha", "alias": "C" },
+        { "id": 2, "name": "Batman", "alias": "D" },
+        { "id": 3, "name": "Flash", "alias": "C" },
+        { "id": 4, "name": "Severo Snape", "alias": "B" },
+        { "id": 5, "name": "Hermione Granger", "alias": "A" },
+        { "id": 6, "name": "Homer Simpson", "alias": "D" },
+        { "id": 7, "name": "Bart Simpson", "alias": "B" },
+        { "id": 8, "name": "Cinderella", "alias": "A" }
       ]
     },
     {
       "id": 3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Qual seu gênero favorito entre esses?",
       "options": [
-        { "id": 1, "name": "Não destruir prédios", "alias": "B" },
-        { "id": 2, "name": "Socar a cara do inimigo", "alias": "A" },
-        { "id": 3, "name": "Não sujar meu traje", "alias": "A" },
-        { "id": 4, "name": "Não deixar ninguém se ferir", "alias": "B" }
+        { "id": 1, "name": "Drama", "alias": "A" },
+        { "id": 2, "name": "Romance", "alias": "B" },
+        { "id": 3, "name": "Comédia", "alias": "D" },
+        { "id": 4, "name": "Clichê adolescente", "alias": "C" }
       ]
     },
     {
       "id": 4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Qual sua cor favorita entre essas?",
       "options": [
-        { "id": 1, "name": "Ficar rico com poderes", "alias": "A" },
-        { "id": 2, "name": "Salvar a cidade", "alias": "B" }
+        { "id": 1, "name": "Amarelo", "alias": "C" },
+        { "id": 2, "name": "Azul", "alias": "B" },
+        { "id": 3, "name": "Vermelho", "alias": "D" },
+        { "id": 4, "name": "Verde", "alias": "A" }
       ]
     },
     {
       "id": 5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Qual a sua saga favorita de filmes entre esses?",
       "options": [
-        { "id": 1, "name": "O Terrivel", "alias": "A" },
-        { "id": 2, "name": "Amigo da vizinhança", "alias": "B" }
+        { "id": 1, "name": "Velozes e Furiosos", "alias": "D" },
+        { "id": 2, "name": "Jogos Vorazes", "alias": "A" },
+        { "id": 3, "name": "Harry Potter", "alias": "C" },
+        { "id": 4, "name": "As Crônicas de Nárnia", "alias": "B" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Onde você prefere ir entre esses lugares?",
+      "options": [
+        { "id": 1, "name": "Show de Música", "alias": "B" },
+        { "id": 2, "name": "Parque", "alias": "A" },
+        { "id": 3, "name": "Parque aquático", "alias": "D" },
+        { "id": 4, "name": "Festa à noite", "alias": "C" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Qual a sua princesa da disney favorita?",
+      "options": [
+        { "id": 1, "name": "Rapunzel", "alias": "C" },
+        { "id": 2, "name": "Bela Adormecida", "alias": "A" },
+        { "id": 3, "name": "Cinderella", "alias": "D" },
+        { "id": 4, "name": "Tiana", "alias": "B" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Qual a sua série favorita entre essas?",
+      "options": [
+        { "id": 1, "name": "The big bang theory", "alias": "C" },
+        { "id": 2, "name": "This is us", "alias": "A" },
+        { "id": 3, "name": "Supernatural", "alias": "D" },
+        { "id": 4, "name": "Stranger Things", "alias": "B" }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Quais estilos musicais você mais gosta entre esses?",
+      "options": [
+        { "id": 1, "name": "POP", "alias": "C" },
+        { "id": 2, "name": "Rock", "alias": "A" },
+        { "id": 3, "name": "MPB", "alias": "D" },
+        { "id": 4, "name": "R&B", "alias": "B" }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Qual seu drink favorito?",
+      "options": [
+        { "id": 1, "name": "Caipirinha", "alias": "C" },
+        { "id": 2, "name": "Whiskey", "alias": "A" },
+        { "id": 3, "name": "Sangria", "alias": "D" },
+        { "id": 4, "name": "Mojito", "alias": "B" }
       ]
     }
   ],
   "results": {
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "O Milagre da Cela 7",
+    "B": "Um Dia",
+    "C": "Curtindo a vida adoidado",
+    "D": "Gente Grande"
   }
 }
